@@ -1,0 +1,7 @@
+Show all assignments for each assigned intune app
+Exports this info to a CSV with the following data:
+App Display Name
+App ID
+Intent (Required, available, uninstall)
+Filter Type
+Filter Name
